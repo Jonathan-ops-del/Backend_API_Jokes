@@ -105,7 +105,7 @@ app.delete("/jokes/:id", (req, res) => {
 
 //8. DELETE All jokes
 
-app.delete("/all", function(req,res){
+
   app.delete("/all", (req, res) => {
     const userKey = req.query.key;
     if (userKey === masterKey) {
@@ -117,7 +117,7 @@ app.delete("/all", function(req,res){
         .json({ error: `You are not authorised to perform this action.` });
     }
   });
-})
+
 
 
 
