@@ -1,7 +1,7 @@
 # Backend_API_Jokes
 Backend_API_Jokes
 
-This project is a Backend API challenge problem presented by Angela Yu's Udemy Online Web Development Course. The purpose of this project was to demonstrate and teach us the use of RESTFUL APi.
+This project is a Backend API challenge problem presented by Angela Yu's Udemy Online Web Development Course. The purpose of this project was to demonstrate and teach us the use of RESTFUL API.
 A RESTFUL API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data. That data can be used to GET, PUT, POST and DELETE data types, which refers to the reading, updating, creating and deleting of operations concerning resources
 
 This project consists only of a Backend API built from Nodejs, & running on port 3000. We are using Postman to test our routes. There is no database connected to our Backend API. We are simply using an Array called "Jokes."
