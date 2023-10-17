@@ -2,7 +2,7 @@
 Backend_API_Jokes
 
 This project is a Backend API challenge problem presented by Angela Yu's Udemy Online Web Development Course. The purpose of this project was to demonstrate and teach us the use of RESTFUL APi.
-A RESTful API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data. That data can be used to GET, PUT, POST and DELETE data types, which refers to the reading, updating, creating and deleting of operations concerning resources
+A RESTFUL API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data. That data can be used to GET, PUT, POST and DELETE data types, which refers to the reading, updating, creating and deleting of operations concerning resources
 
 This project consists only of a Backend API built from Nodejs, & running on port 3000. We are using Postman to test our routes. There is no database connected to our Backend API. We are simply using an Array called "Jokes."
 Once the application is running you will be able to test these routes on Postman and will be able to do the following:  read random jokes, read specific jokes,  add new jokes, update our jokes array, and delete from our jokes array.
